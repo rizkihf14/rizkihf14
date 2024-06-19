@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on Astra Graphiat IT **SQL Server Specialist**
 
-- 🌱 I’m currently learning **Azure Administrator & Pyhton**
+- 🌱 I’m currently learning **SQL Server, SSRS, SSIS, Azure SQL Database, Azure Administrator & Pyhton**
 
 - 📫 How to reach me **rizkiharifitri@gmail.com**
 
